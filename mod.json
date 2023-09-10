@@ -1,0 +1,15 @@
+{
+    "repo_url": "https://github.com/Chiv2-Community/FlashBlades",
+    "name": "FlashBlades",
+    "description": "Your weapon has reached critical temperatures.\n\nUsage:\nopen agmods?map=ffa_wardenglade?mods=FlashBlades",
+    "mod_type": "Shared",
+    "authors": [ "Nihi" ],
+    "dependencies": [
+      {
+        "repo_url": "https://github.com/Chiv2-Community/ArgonSDK-Mods",
+        "version": "v0.0.1"
+      }
+    ],
+    "tags": [ "Mods" ]
+  }
+      
